@@ -1,6 +1,6 @@
 # asdf-jmespath
 
-[Build Status]
+[![Build Status](https://travis-ci.org/skyzyx/asdf-jmespath.svg?branch=master)](https://travis-ci.org/skyzyx/asdf-jmespath)
 
 [JMESPath](https://github.com/jmespath/jp) plugin for the [asdf](https://github.com/asdf-vm/asdf) version manager.
 
